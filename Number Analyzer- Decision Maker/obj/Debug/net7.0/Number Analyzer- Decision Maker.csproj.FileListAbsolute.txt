@@ -1,0 +1,15 @@
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/bin/Debug/net7.0/Number Analyzer- Decision Maker
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/bin/Debug/net7.0/Number Analyzer- Decision Maker.deps.json
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/bin/Debug/net7.0/Number Analyzer- Decision Maker.runtimeconfig.json
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/bin/Debug/net7.0/Number Analyzer- Decision Maker.dll
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/bin/Debug/net7.0/Number Analyzer- Decision Maker.pdb
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.csproj.AssemblyReference.cache
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.AssemblyInfoInputs.cache
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.AssemblyInfo.cs
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.csproj.CoreCompileInputs.cache
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.dll
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/refint/Number Analyzer- Decision Maker.dll
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.pdb
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/Number Analyzer- Decision Maker.genruntimeconfig.cache
+/Users/david/Projects/Number Analyzer- Decision Maker/Number Analyzer- Decision Maker/obj/Debug/net7.0/ref/Number Analyzer- Decision Maker.dll
